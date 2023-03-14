@@ -1,0 +1,47 @@
+
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Marco" 4 times.(¸ıæßüÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "Mario" 4 times.(¸ıæßüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û†üÓıÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¸ıæßüÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(¸ıæßüÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(’Ø‚&
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çü€ç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‹ğß
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ïûç¾øÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(ïûç¾øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(†½ù1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ª’Š˜ÿÿÿÿÿ
+7
+java:S3864"!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÒíêşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(×ÂÃ
+7
+java:S3864#"!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+V	java:S125%"<This block of commented-out lines of code should be removed.(“ÓÒâÿÿÿÿÿ
+m
+java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¸êÒôüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(©üÌöûÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(•ßÁúÿÿÿÿ
+7
+java:S3864,"!Remove this use of "Stream.peek".(ƒëüÊ
+]
+java:S1612,"@Replace this lambda with method reference 'System.out::println'.(ƒëüÊ8£úá’È0
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ƒëüÊ
+V	java:S1252"<This block of commented-out lines of code should be removed.(“ÓÒâÿÿÿÿÿ
+h
+java:S62043"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(×öêÍ
+b
+java:S16124"@Replace this lambda with method reference 'System.out::println'.(ƒ„ìÔùÿÿÿÿ8ûúâ’È0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ƒ„ìÔùÿÿÿÿ8üúâ’È0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8üúâ’È0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8üúâ’È0

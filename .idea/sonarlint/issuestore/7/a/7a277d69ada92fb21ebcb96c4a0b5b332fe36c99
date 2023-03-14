@@ -1,0 +1,10 @@
+
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Pato Guzman" 8 times.(ìÈà®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™²“õ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çü€ç8°šÜÈ0
+f
+java:S1128"KRemove this unused import 'org.bguerra.api.stream.ejemplos.models.Usuario'.(ˆöçùÿÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ

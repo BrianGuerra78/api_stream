@@ -1,0 +1,8 @@
+
+<
+java:S3864"!Remove this use of "Stream.peek".(›®×«üÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(›®×«üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›®×«üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥øöð
+Q	java:S125"<This block of commented-out lines of code should be removed.(×ÂŽÀ
